@@ -1,0 +1,11 @@
+[package]
+name = "saqib_fun"
+version = "0.1.0"
+authors = ["SaqibYousuf <saqibyousuf001@gmail.com>"]
+edition = "2018"
+description = "My first library"
+license = "MIT"
+repository = "https://github.com/SaqibYousuf/saqib_lib"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
